@@ -1,4 +1,3 @@
-[![MasterHead](https://media0.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
 <h1 align="center">Hi 👋, I'm hunainirfan1</h1>
 <h3 align="center">A passionate game developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
